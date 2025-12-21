@@ -49,7 +49,7 @@ ffmpy==0.3.2
 fiftyone==0.23.6
 fiftyone-brain==0.16.1
 fiftyone_db==1.1.2
-filelock==3.9.0
+filelock==3.20.1
 fonttools==4.49.0
 fsspec==2024.2.0
 ftfy==6.1.3
