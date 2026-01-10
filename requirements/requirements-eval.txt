@@ -13,3 +13,6 @@ fairscale>=0.4.13
 decord==0.6.0
 pytorchvideo==0.1.5
 lpips==0.1.4
+torch>=2.9.0 # not directly required, pinned by Snyk to avoid a vulnerability
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
+werkzeug>=3.1.5 # not directly required, pinned by Snyk to avoid a vulnerability
