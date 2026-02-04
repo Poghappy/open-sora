@@ -1,3 +1,4 @@
 xformers
 transformers
 git+https://github.com/hpcaitech/Open-Sora.git
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
